@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Jacob:
-👩‍💻Software Engineer sharing about my journey and learnings in tech<br>📚Studied Information Technology at San Diego State University<br>💭Currently building in React and learning full stack web development
+👩‍💻Sharing about my journey and learnings in tech<br>📚Studied Managemetn Information Systems at San Diego State University<br>💭Currently building in React and learning cloud engineering.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakepz33&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
