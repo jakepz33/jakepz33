@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Jacob:
 👩‍💻Sharing about my journey and learnings in tech<br>📚Studied Managemetn Information Systems at San Diego State University<br>💭Currently building in React and learning cloud engineering.
+Here is my Presales portfolio (in progress): https://drive.google.com/drive/folders/1xmcp_O5DvoGBEerKcdUHSWRQzrH0TEj2?usp=sharing
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakepz33&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
